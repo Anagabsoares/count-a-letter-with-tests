@@ -9,4 +9,4 @@ def count_a_letter(sentence, letter):
         if char != letter:
             count +=1
     
-    return count
+    return countl,dls,c
